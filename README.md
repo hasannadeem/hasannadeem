@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hasannadeem" alt="hasannadeem" /> </p>
 
-- 🔭 I’m currently working on [FiveToNine](https://fivetonine.co/)
+- 🔭 I’m currently working as a Freelance Full-Stack Engineer on Upwork and Fiverr.
 
 - 🌱 I’m currently learning **ReactJS with Redux**
 
