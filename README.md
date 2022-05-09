@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **Ruby / Ruby on Rails**
 
-- 📫 How to reach me **hi.hasannadeem@gmail.com**
+- 📫 How to reach me **hey.hasannadeem@gmail.com**
 
 - ⚡ Fun fact **Chai over coffee anytime!**
 
