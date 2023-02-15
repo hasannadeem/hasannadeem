@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working as a Freelance Full-Stack Engineer.
 
-- 🌱 I’m currently learning **ReactJS with Redux**
+- 🌱 I’ve worked **ReactJS with Redux** as well
 
 - 👯 I’m looking to collaborate on **any Ruby on Rails / NodeJS / Django / ReactJS / Angular projects**
 
