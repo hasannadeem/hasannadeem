@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Hasan Nadeem</h1>
-<h3 align="center">Full-Stack Engineer</h3>
+<h3 align="center">Full-Stack Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hasannadeem" alt="hasannadeem" /> </p>
 
-- 🔭 I’m currently working as a Freelance Full-Stack Engineer.
+- 🔭 I’m currently working as a Freelance Full-Stack Software Engineer.
 
 - 🌱 I’ve worked **ReactJS with Redux** as well
 
 - 👯 I’m looking to collaborate on **any Ruby on Rails / NodeJS / Django / ReactJS / Angular projects**
 
-- 🤝 I’m looking for help with **getting remote job as a full-stack engineer.**
+- 🤝 I’m looking for help with **getting a remote job as a full-stack Software engineer.**
 
 - 👨‍💻 All of my projects are available at [http://github.com/hasannadeem](http://github.com/hasannadeem)
 
-- 📝 I regulary write articles on [https://dev.to/hasanadeem](https://dev.to/hasanadeem)
+- 📝 I regularly write articles on [https://dev.to/hasanadeem](https://dev.to/hasanadeem)
 
 - 💬 Ask me about **Ruby / Ruby on Rails**
 
