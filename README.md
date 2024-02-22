@@ -21,10 +21,9 @@
 
 - ⚡ Fun fact **Chai over coffee anytime!**
 
-<p align="center">
+<p>
   <a href="https://dev.to/hasannadeem" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="hasanadeem" height="30" width="30" /></a>
   <a href="https://www.linkedin.com/in/hasanadeem/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="hasanadeem" height="30" width="30" /></a>
 </p>
-
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasannadeem&layout=compact" alt="hasannadeem" /></p>
