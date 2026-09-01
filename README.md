@@ -1,10 +1,8 @@
-# Hasan Nadeem
+# Hasan - AI-Native Software Engineer
 
-## AI-Native Software Engineer
+I design and ship AI products, agentic systems, and reliable full-stack software for founders, CTOs, and engineering teams.
 
-I help founders, CTOs, and engineering teams turn ambitious ideas, legacy systems, and fragile AI-built prototypes into reliable software that ships.
-
-For 8+ years, I have built and modernized products across backend systems, frontend experiences, automation, and delivery infrastructure. I use agentic development workflows to increase throughput, shorten feedback loops, reduce avoidable errors, and launch faster without compromising engineering judgment.
+For 8+ years, I have built and modernized products across backend systems, frontend experiences, automation, and delivery infrastructure. Today, I combine strong engineering fundamentals with AI-native workflows to increase throughput, shorten feedback loops, reduce avoidable errors, and launch faster without compromising quality or judgment.
 
 ## Client Proof
 
@@ -16,11 +14,12 @@ For 8+ years, I have built and modernized products across backend systems, front
   <img src="./assets/client-feedback.jpg" alt="Selected verified client feedback" width="900">
 </p>
 
-## What I Help With
+## What I Build
 
-- **AI SaaS and MVP delivery:** From an ambiguous idea to a maintainable, testable product.
-- **Legacy modernization:** Agentic development setups that help teams understand, improve, and safely evolve existing systems.
+- **AI agents and LLM systems:** Tool-using agents, multi-agent workflows, retrieval, evaluations, guardrails, and human approval flows.
+- **AI SaaS and MVPs:** From an ambiguous idea to a maintainable, testable product with a clear path to production.
 - **Vibe-code rescue:** Turning fragile AI-generated prototypes into secure, structured, production-ready applications.
+- **Agentic modernization:** Using AI-assisted codebase discovery, planning, implementation, and validation to safely evolve existing systems.
 - **Workflow automation:** Removing repetitive work and connecting systems around real business processes.
 - **Technical partnership:** Helping founders and CTOs make sound architecture, scope, and delivery decisions.
 
@@ -28,29 +27,33 @@ For 8+ years, I have built and modernized products across backend systems, front
 
 I use AI as an engineering multiplier, not a substitute for accountability.
 
-My workflow combines structured context, specialized agents, automated checks, tests, code review, and human validation. This lets me explore faster, implement in parallel, catch problems earlier, and preserve the reasoning behind important decisions.
+My workflow combines structured context, specialized agents, automated checks, tests, evaluations, code review, and human validation. This lets me explore faster, implement in parallel, catch problems earlier, and preserve the reasoning behind important decisions.
 
 The goal is not to generate more code. The goal is to ship the right system sooner, with less risk.
+
+## Modern Engineering Stack
+
+**AI Agents and LLM Systems:** Tool-using agents, multi-agent workflows, MCP, RAG, structured outputs, function calling, human-in-the-loop systems, evaluations, guardrails, and AI observability
+
+**AI Frameworks and SDKs:** OpenAI APIs and Agents SDK, Anthropic APIs, LangChain, LangGraph, and Vercel AI SDK
+
+**Modern Full Stack:** TypeScript, Next.js, React, Node.js, NestJS, FastAPI, Python, Express, REST, and GraphQL
+
+**Data and Infrastructure:** PostgreSQL, Redis, vector search, background jobs, Docker, CI/CD, AWS, and Vercel
+
+**Additional Production Experience:** Ruby on Rails, Sidekiq, Hotwire, and mature monolithic systems
 
 ## Selected Work
 
 | Project | Engineering focus |
 | --- | --- |
-| [Campaign Dispatcher](https://github.com/hasannadeem/hasan-campaign-dispatcher) | Real-time Rails campaign processing with Sidekiq, Redis, Turbo Streams, idempotent jobs, concurrency controls, and comprehensive tests. |
-| [Delivery Context Record](https://github.com/hasannadeem/delivery-context-record) | A lightweight product for keeping scope changes, approvals, delivery baselines, and decision history synchronized. |
-| [Creator Onboarding Platform](https://github.com/hasannadeem/creater-onboarding-mvp) | A full-stack creator workflow with video processing, background jobs, offer creation, and AI-assisted content suggestions. |
+| [Delivery Context Record](https://github.com/hasannadeem/delivery-context-record) | A Next.js product for keeping scope changes, approvals, delivery baselines, and decision history synchronized. |
+| [Creator Onboarding Platform](https://github.com/hasannadeem/creater-onboarding-mvp) | A TypeScript and React creator workflow with video processing, background jobs, offer creation, and AI-assisted content suggestions. |
+| [Campaign Dispatcher](https://github.com/hasannadeem/hasan-campaign-dispatcher) | Reliable campaign processing with idempotent jobs, concurrency controls, Redis, real-time updates, and comprehensive tests. |
 | [Pearl Workflow](https://github.com/hasannadeem/pearl-workflow) | A Rails platform for proposals, collaboration, feasibility scoring, cost planning, approvals, and audit history. |
-
-## Core Technologies
-
-**Backend:** Ruby on Rails, Node.js, PostgreSQL, Redis, Sidekiq, REST, GraphQL
-
-**Frontend:** React, Next.js, TypeScript, Hotwire, Tailwind CSS
-
-**Delivery:** Docker, CI/CD, automated testing, architecture reviews, modernization workflows
-
-**AI-Native Engineering:** Agentic development systems, context engineering, AI-assisted implementation, automated validation, and codebase rescue
 
 ## Work With Me
 
 If you need a technical partner who can move quickly, challenge assumptions, and turn unfinished software into a dependable product, email me at [hey.hasannadeem@gmail.com](mailto:hey.hasannadeem@gmail.com).
+
+<!-- TODO: Add quantified case studies and outcome metrics when approved. -->
