@@ -6,7 +6,15 @@ I help founders, CTOs, and engineering teams turn ambitious ideas, legacy system
 
 For 8+ years, I have built and modernized products across backend systems, frontend experiences, automation, and delivery infrastructure. I use agentic development workflows to increase throughput, shorten feedback loops, reduce avoidable errors, and launch faster without compromising engineering judgment.
 
-**Client proof:** [Top Rated on Upwork with 100% Job Success, a 5.0 rating, 45 jobs, and 5,200+ hours](https://www.upwork.com/freelancers/hasanadeem)
+## Client Proof
+
+<p>
+  <img src="./assets/client-results.jpg" alt="Client results showing a 100% success score, Top Rated status, a 5.0 rating across 33 reviews, 45 jobs, and 5,200 hours" width="520">
+</p>
+
+<p>
+  <img src="./assets/client-feedback.jpg" alt="Selected verified client feedback" width="900">
+</p>
 
 ## What I Help With
 
@@ -45,4 +53,4 @@ The goal is not to generate more code. The goal is to ship the right system soon
 
 ## Work With Me
 
-If you need a technical partner who can move quickly, challenge assumptions, and turn unfinished software into a dependable product, view my verified client history on [Upwork](https://www.upwork.com/freelancers/hasanadeem).
+If you need a technical partner who can move quickly, challenge assumptions, and turn unfinished software into a dependable product, email me at [hey.hasannadeem@gmail.com](mailto:hey.hasannadeem@gmail.com).
