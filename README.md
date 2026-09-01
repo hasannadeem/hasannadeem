@@ -4,7 +4,7 @@ I design and ship AI products, agentic systems, and reliable full-stack software
 
 For 8+ years, I have built and modernized products across backend systems, frontend experiences, automation, and delivery infrastructure. Today, I combine strong engineering fundamentals with AI-native workflows to increase throughput, shorten feedback loops, reduce avoidable errors, and launch faster without compromising quality or judgment.
 
-## Client Proof
+## Proven Delivery
 
 <p>
   <img src="./assets/client-results.jpg" alt="Client results showing a 100% success score, Top Rated status, a 5.0 rating across 33 reviews, 45 jobs, and 5,200 hours" width="520">
@@ -43,17 +43,25 @@ The goal is not to generate more code. The goal is to ship the right system soon
 
 **Additional Production Experience:** Ruby on Rails, Sidekiq, Hotwire, and mature monolithic systems
 
-## Selected Work
+## Featured Engineering
 
-| Project | Engineering focus |
-| --- | --- |
-| [Delivery Context Record](https://github.com/hasannadeem/delivery-context-record) | A Next.js product for keeping scope changes, approvals, delivery baselines, and decision history synchronized. |
-| [Creator Onboarding Platform](https://github.com/hasannadeem/creater-onboarding-mvp) | A TypeScript and React creator workflow with video processing, background jobs, offer creation, and AI-assisted content suggestions. |
-| [Campaign Dispatcher](https://github.com/hasannadeem/hasan-campaign-dispatcher) | Reliable campaign processing with idempotent jobs, concurrency controls, Redis, real-time updates, and comprehensive tests. |
-| [Pearl Workflow](https://github.com/hasannadeem/pearl-workflow) | A Rails platform for proposals, collaboration, feasibility scoring, cost planning, approvals, and audit history. |
+### [ScrollSnapper](https://github.com/hasannadeem/scrollsnapper)
+
+A privacy-first Manifest V3 Chrome extension that captures a full webpage and produces one local PNG without a backend, account, analytics, or cloud upload.
+
+<p>
+  <a href="https://github.com/hasannadeem/scrollsnapper">
+    <img src="https://raw.githubusercontent.com/hasannadeem/scrollsnapper/main/store-assets/scrollsnapper-store-screenshot-1280x800.png" alt="ScrollSnapper full-page capture interface" width="900">
+  </a>
+</p>
+
+- Coordinates a popup, ES module service worker, content script, and offscreen document across isolated Chrome extension contexts.
+- Uses deterministic viewport planning and `OffscreenCanvas` to stitch full-page screenshots locally.
+- Handles active-tab changes, API capture quotas, concurrent capture protection, canvas safety limits, page restoration, and confirmed downloads.
+- Ships with automated tests, manifest validation, continuous integration, reproducible packaging, and zero runtime dependencies.
 
 ## Work With Me
 
 If you need a technical partner who can move quickly, challenge assumptions, and turn unfinished software into a dependable product, email me at [hey.hasannadeem@gmail.com](mailto:hey.hasannadeem@gmail.com).
 
-<!-- TODO: Add quantified case studies and outcome metrics when approved. -->
+<!-- TODO: Add quantified case studies, outcome metrics, and two more high-signal public engineering projects when approved. -->
