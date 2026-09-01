@@ -6,12 +6,22 @@ For 8+ years, I have built and modernized products across backend systems, front
 
 ## Proven Delivery
 
-<p>
-  <img src="./assets/client-results.jpg" alt="Client results showing a 100% success score, Top Rated status, a 5.0 rating across 33 reviews, 45 jobs, and 5,200 hours" width="520">
+<p align="center">
+  <img src="./assets/delivery-stats.png" alt="Independent client results showing a 100% success score, Top Rated status, a 5.0 rating across 33 reviews, 45 jobs, and 5,200 hours" width="500">
 </p>
 
-<p>
-  <img src="./assets/client-feedback.jpg" alt="Selected verified client feedback" width="900">
+<p align="center">
+  <img src="./assets/review-full-stack-engineer.png" alt="Client feedback praising communication, teamwork, and full-stack engineering" width="420">
+  <img src="./assets/review-ai-health.png" alt="Client feedback for AI-powered health platform engineering" width="420">
+</p>
+
+<p align="center">
+  <img src="./assets/review-cicd.png" alt="Client feedback for methodical CI/CD delivery and documentation" width="420">
+  <img src="./assets/review-b2b-saas.png" alt="Client feedback for Ruby on Rails and JavaScript B2B SaaS engineering" width="420">
+</p>
+
+<p align="center">
+  <img src="./assets/review-javascript-full-stack.png" alt="Client feedback praising proactive and collaborative JavaScript full-stack engineering" width="420">
 </p>
 
 ## What I Build
