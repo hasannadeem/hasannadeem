@@ -43,25 +43,8 @@ The goal is not to generate more code. The goal is to ship the right system soon
 
 **Additional Production Experience:** Ruby on Rails, Sidekiq, Hotwire, and mature monolithic systems
 
-## Featured Engineering
-
-### [ScrollSnapper](https://github.com/hasannadeem/scrollsnapper)
-
-A privacy-first Manifest V3 Chrome extension that captures a full webpage and produces one local PNG without a backend, account, analytics, or cloud upload.
-
-<p>
-  <a href="https://github.com/hasannadeem/scrollsnapper">
-    <img src="https://raw.githubusercontent.com/hasannadeem/scrollsnapper/main/store-assets/scrollsnapper-store-screenshot-1280x800.png" alt="ScrollSnapper full-page capture interface" width="900">
-  </a>
-</p>
-
-- Coordinates a popup, ES module service worker, content script, and offscreen document across isolated Chrome extension contexts.
-- Uses deterministic viewport planning and `OffscreenCanvas` to stitch full-page screenshots locally.
-- Handles active-tab changes, API capture quotas, concurrent capture protection, canvas safety limits, page restoration, and confirmed downloads.
-- Ships with automated tests, manifest validation, continuous integration, reproducible packaging, and zero runtime dependencies.
-
 ## Work With Me
 
 If you need a technical partner who can move quickly, challenge assumptions, and turn unfinished software into a dependable product, email me at [hey.hasannadeem@gmail.com](mailto:hey.hasannadeem@gmail.com).
 
-<!-- TODO: Add quantified case studies, outcome metrics, and two more high-signal public engineering projects when approved. -->
+<!-- TODO: Add quantified case studies and outcome metrics, then audit and publish two or three high-signal AI-agent repositories for profile pins when approved. -->
