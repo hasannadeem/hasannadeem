@@ -1,29 +1,48 @@
-<h1 align="center">Hi 👋, I'm Hasan Nadeem</h1>
-<h3 align="center">Full-Stack Software Engineer</h3>
+# Hasan Nadeem
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hasannadeem" alt="hasannadeem" /> </p>
+## AI-Native Software Engineer
 
-- 🔭 I’m currently working as a Freelance Full-Stack Software Engineer.
+I help founders, CTOs, and engineering teams turn ambitious ideas, legacy systems, and fragile AI-built prototypes into reliable software that ships.
 
-- 🌱 I’ve worked **ReactJS with Redux** as well
+For 8+ years, I have built and modernized products across backend systems, frontend experiences, automation, and delivery infrastructure. I use agentic development workflows to increase throughput, shorten feedback loops, reduce avoidable errors, and launch faster without compromising engineering judgment.
 
-- 👯 I’m looking to collaborate on **any Ruby on Rails / NodeJS / Django / ReactJS / Angular projects**
+**Client proof:** [Top Rated on Upwork with 100% Job Success, a 5.0 rating, 45 jobs, and 5,200+ hours](https://www.upwork.com/freelancers/hasanadeem)
 
-- 🤝 I’m looking for help with **getting a remote job as a full-stack Software engineer.**
+## What I Help With
 
-- 👨‍💻 All of my projects are available at [http://github.com/hasannadeem](http://github.com/hasannadeem)
+- **AI SaaS and MVP delivery:** From an ambiguous idea to a maintainable, testable product.
+- **Legacy modernization:** Agentic development setups that help teams understand, improve, and safely evolve existing systems.
+- **Vibe-code rescue:** Turning fragile AI-generated prototypes into secure, structured, production-ready applications.
+- **Workflow automation:** Removing repetitive work and connecting systems around real business processes.
+- **Technical partnership:** Helping founders and CTOs make sound architecture, scope, and delivery decisions.
 
-- 📝 I regularly write articles on [https://dev.to/hasanadeem](https://dev.to/hasanadeem)
+## How I Work With AI
 
-- 💬 Ask me about **Ruby / Ruby on Rails**
+I use AI as an engineering multiplier, not a substitute for accountability.
 
-- 📫 How to reach me **hey.hasannadeem@gmail.com**
+My workflow combines structured context, specialized agents, automated checks, tests, code review, and human validation. This lets me explore faster, implement in parallel, catch problems earlier, and preserve the reasoning behind important decisions.
 
-- ⚡ Fun fact **Chai over coffee anytime!**
+The goal is not to generate more code. The goal is to ship the right system sooner, with less risk.
 
-<p>
-  <a href="https://dev.to/hasannadeem" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="hasanadeem" height="30" width="30" /></a>
-  <a href="https://www.linkedin.com/in/hasanadeem/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="hasanadeem" height="30" width="30" /></a>
-</p>
+## Selected Work
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasannadeem&layout=compact" alt="hasannadeem" /></p>
+| Project | Engineering focus |
+| --- | --- |
+| [Campaign Dispatcher](https://github.com/hasannadeem/hasan-campaign-dispatcher) | Real-time Rails campaign processing with Sidekiq, Redis, Turbo Streams, idempotent jobs, concurrency controls, and comprehensive tests. |
+| [Delivery Context Record](https://github.com/hasannadeem/delivery-context-record) | A lightweight product for keeping scope changes, approvals, delivery baselines, and decision history synchronized. |
+| [Creator Onboarding Platform](https://github.com/hasannadeem/creater-onboarding-mvp) | A full-stack creator workflow with video processing, background jobs, offer creation, and AI-assisted content suggestions. |
+| [Pearl Workflow](https://github.com/hasannadeem/pearl-workflow) | A Rails platform for proposals, collaboration, feasibility scoring, cost planning, approvals, and audit history. |
+
+## Core Technologies
+
+**Backend:** Ruby on Rails, Node.js, PostgreSQL, Redis, Sidekiq, REST, GraphQL
+
+**Frontend:** React, Next.js, TypeScript, Hotwire, Tailwind CSS
+
+**Delivery:** Docker, CI/CD, automated testing, architecture reviews, modernization workflows
+
+**AI-Native Engineering:** Agentic development systems, context engineering, AI-assisted implementation, automated validation, and codebase rescue
+
+## Work With Me
+
+If you need a technical partner who can move quickly, challenge assumptions, and turn unfinished software into a dependable product, view my verified client history on [Upwork](https://www.upwork.com/freelancers/hasanadeem).
